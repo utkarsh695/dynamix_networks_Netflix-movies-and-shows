@@ -93,4 +93,5 @@ Dashboard Features:
 
 
 Snapshot-
-!Alt(https://github.com/utkarsh695/dynamix_networks_Netflix-movies-and-shows/blob/main/Netflix_Analysis.png)
+![Alt text](https://github.com/utkarsh695/dynamix_networks_Netflix-movies-and-shows/blob/main/Netflix_Analysis.png)
+Dashboard-(https://github.com/utkarsh695/dynamix_networks_Netflix-movies-and-shows/blob/main/Netflix_Analysis.png)
