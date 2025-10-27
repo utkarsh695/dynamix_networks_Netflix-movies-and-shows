@@ -38,8 +38,8 @@ The following steps were included:
 
 Snapshot-
 
-![Alt text](https://github.com/utkarsh695/Uber-Dashboard/blob/main/Snapshot.uber.png)
-[Dashboard](https://github.com/utkarsh695/Uber-Dashboard/blob/main/Snapshot.uber.png)
+![Alt text](https://github.com/utkarsh695/dynamix_networks_Netflix-movies-and-shows/blob/main/Netflix_Analysis.png)
+[Dashboard](https://github.com/utkarsh695/dynamix_networks_Netflix-movies-and-shows/blob/main/Netflix_Analysis.png)
 
 Cleaned dataset saved as:  
 ```bash
