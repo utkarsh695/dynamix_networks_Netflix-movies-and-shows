@@ -35,6 +35,12 @@ The following steps were included:
   - `duration_type` (“min” or “seasons”)
 - Normalized text fields (genres, countries)
 
+
+Snapshot-
+
+![Alt text](https://github.com/utkarsh695/Uber-Dashboard/blob/main/Snapshot.uber.png)
+[Dashboard](https://github.com/utkarsh695/Uber-Dashboard/blob/main/Snapshot.uber.png)
+
 Cleaned dataset saved as:  
 ```bash
 cleaned_netflix.csv
@@ -92,7 +98,4 @@ Dashboard Features:
 🎚️ Interactive slicers (by type, year, rating, country)
 
 
-Snapshot-
 
-![Alt text](https://github.com/utkarsh695/Uber-Dashboard/blob/main/Snapshot.uber.png)
-[Dashboard](https://github.com/utkarsh695/Uber-Dashboard/blob/main/Snapshot.uber.png)
