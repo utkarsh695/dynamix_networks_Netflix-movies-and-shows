@@ -94,5 +94,5 @@ Dashboard Features:
 
 Snapshot-
 
-![Alt text](https://github.com/utkarsh695/dynamix_networks_Netflix-movies-and-shows/blob/main/Netflix_Analysis.png)
-Dashboard-(https://github.com/utkarsh695/dynamix_networks_Netflix-movies-and-shows/blob/main/Netflix_Analysis.png)
+![Alt text](https://github.com/utkarsh695/Uber-Dashboard/blob/main/Snapshot.uber.png)
+[Dashboard](https://github.com/utkarsh695/Uber-Dashboard/blob/main/Snapshot.uber.png)
